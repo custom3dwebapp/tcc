@@ -31,7 +31,7 @@ export default function SovereignAI() {
             <li>
               <a
                 href="#contact"
-                className="text-sm text-gray-600 hover:text-gray-900 transition"
+                className="text-sm text-gray-600 hover:text-gray-900 transition mr-0"
               >
                 Contact
               </a>
